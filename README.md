@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/icon.png" width="128" alt="BytePass app icon"></p>
+
 # BytePass – Free SFTP Client for macOS
 
 A native SFTP client for macOS with built-in server backups. Manage servers, transfer files and create encrypted backups (AES-256). A free alternative to FileZilla, Cyberduck and Transmit.

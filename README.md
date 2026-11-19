@@ -6,6 +6,8 @@ A native SFTP client for macOS with built-in server backups. Manage servers, tra
 
 ![BytePass – Free SFTP Client for macOS](screenshots/bytepass.png)
 
+**Download:** [latest release](../../releases/latest) → unzip, move BytePass to Applications. On first launch right-click → Open (the app is not notarized).
+
 **Build:** macOS 14+, Xcode Command Line Tools → `./build_app.sh`
 
 Feedback and ideas are welcome – just open an [issue](../../issues).
